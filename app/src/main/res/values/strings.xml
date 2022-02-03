@@ -1,0 +1,18 @@
+<resources>
+
+    <!--LABEL-->
+    <string name="app_name">MAPA (offline)</string>
+
+    <!--MESSAGES-->
+    <string name="yes">SI</string>
+    <string name="no">NO</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="mas">MAS&#8230;</string>
+    <string name="go">IR</string>
+    <string name="title_message1">Atención</string>
+    <string name="title_message_dialogo">¿Desea activar el GPS?</string>
+    <string name="message_dialogo">Click en Ubicación</string>
+    <string name="message_toast_error">ERROR AL CARGAR LOS DATOS: </string>
+    <string name="message2">NO SE HA ENCONTRADO SU POSICION</string>
+
+</resources>
